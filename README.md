@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# 조정인 · JO JUNG IN
+# jihooooo6
 
 ### 공공기관 30건 이상의 자바 백엔드 6년차 — AI 협업으로 한 단계 더
 
