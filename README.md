@@ -18,6 +18,8 @@
 
 ### 공공기관 30건 이상의 자바 백엔드 6년차 — AI 협업으로 한 단계 더
 
+[![Contact](https://img.shields.io/badge/Contact-foeverqhsk%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:foeverqhsk@naver.com)
+
 </div>
 
 ---
