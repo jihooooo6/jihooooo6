@@ -291,6 +291,6 @@
 ## 연결
 
 - 이메일: foeverqhsk@naver.com
-- <sub>![](https://komarev.com/ghpvc/?username=jihooooo6&label=%20&color=lightgrey&style=flat-square)</sub>
+- ![](https://komarev.com/ghpvc/?username=jihooooo6&label=&color=ffffff&style=flat-square)
 
 <sub>자세한 경력기술서·자기소개서·포트폴리오는 채용 절차 중 별도로 제공해 드립니다.</sub>
