@@ -18,7 +18,7 @@
 
 ### 공공기관 30건 이상의 자바 백엔드 6년차 — AI 협업으로 한 단계 더
 
-[![Contact](https://img.shields.io/badge/Contact-foeverqhsk%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:foeverqhsk@naver.com) &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=jihooooo6&label=Profile%20views&style=flat-square&color=4a6fa5)
+[![Contact](https://img.shields.io/badge/Contact-foeverqhsk%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:foeverqhsk@naver.com)
 
 </div>
 
@@ -291,5 +291,6 @@
 ## 연결
 
 - 이메일: foeverqhsk@naver.com
+- <sub>![](https://komarev.com/ghpvc/?username=jihooooo6&label=%20&color=lightgrey&style=flat-square)</sub>
 
 <sub>자세한 경력기술서·자기소개서·포트폴리오는 채용 절차 중 별도로 제공해 드립니다.</sub>
