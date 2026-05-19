@@ -10,13 +10,23 @@
 - 본문은 결·관심·실험 중심 (채용 사이트 서류와 차별화)
 - 이력 정보(기술 스택·연동·프로젝트 타임라인)는 collapsible로 접어둠
 - 핀 저장소가 실제 작업 어필의 메인
+
+수정 이력
+- 2026-05-20: 메인 화면(헤더 명함 + "한눈에 보기" 카드) 문구를 서비스 중심으로 리프레임.
+  - 이유: SI 전환 후기 8건 분석(move-company `R_20260520_SI에서_서비스이직_탈락원인_분석.html`) 결과,
+    프로필 첫 화면이 "공공 SI 30건"으로 시작하면 서비스 회사 검토 단계에서 "SI 출신" 필터에 먼저 걸린다.
+  - 처방: 공공 경험(사실)은 본문 collapsible에 그대로 보존하되, 첫 화면은 가장 서비스에 가까운 자산
+    (국립오페라단 약 5년 단독 서비스 운영 · 동작구청 약 2주 AI 단독 구축)으로 재배치.
+  - 변경 범위: 헤더 한 줄 명함 + "한눈에 보기" 정량 카드 4종만. 본문·노하우·타임라인은 유지.
+  - 주의: 이 파일은 원본이며 깃허브 반영하려면 재푸시 필요. `PROFILE_README_BACKUP_PUSHED.md`는
+    실제 푸시 후에 갱신할 것(현재 라이브 상태와 구분 유지).
 -->
 
 <div align="center">
 
 # jihooooo6
 
-### 공공기관 30건 이상의 자바 백엔드 6년차 — AI 협업으로 한 단계 더
+### 한 시스템을 끝까지 가져가는 자바 백엔드 6년차 — 서비스 단독 운영 · AI 협업
 
 [![Contact](https://img.shields.io/badge/Contact-foeverqhsk%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:foeverqhsk@naver.com)
 
@@ -28,8 +38,8 @@
 
 <table>
   <tr>
-    <td align="center"><b>30건 이상</b><br/><sub>공공 SI 프로젝트</sub></td>
-    <td align="center"><b>15곳 이상</b><br/><sub>공공기관 고객사</sub></td>
+    <td align="center"><b>약 5년</b><br/><sub>단독 서비스 운영<br/>(국립오페라단)</sub></td>
+    <td align="center"><b>약 2주</b><br/><sub>AI 단독 구축<br/>(동작구청)</sub></td>
     <td align="center"><b>80% 이상</b><br/><sub>단독·소규모 팀 주도</sub></td>
     <td align="center"><b>5년 2개월</b><br/><sub>실전 경력</sub></td>
   </tr>
